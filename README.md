@@ -4,9 +4,13 @@
 
 - <b>Microsoft Azure SIEM Lab</b>
   - [SIEM lab](https://github.com/barneybro/SIEM_In_Azure)
- 
+
+
+
 <h2>📃Certificates</h2>
-- <b>Google Cybersecurity Professional Certificate
+
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)
   
 
 <h2> 🤳 Connect with me:</h2>
