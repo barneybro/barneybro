@@ -2,7 +2,8 @@
 
 <h2>Introduction</h2>
 
-<h3>I am a </h3>
+<h5>Hello, I'm Nathan Barnhart, a student at Thaddeus Stevens College of Technology pursuing a degree in Computer Software Engineering with a focus on Cybersecurity. In addition to my academic endeavors, I've earned the Google Cybersecurity Certificate and dedicated my free time to self-learning the fundamentals of cybersecurity. To enhance my technical skills and gain practical experience, I've been actively involved in creating a Security Information and Event Management (SIEM) system through Microsoft Sentinel/Azure. Thank you for taking the time to explore my GitHub account!
+</h5>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
