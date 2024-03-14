@@ -9,7 +9,7 @@
 <h2>👨‍💻 Portfolio & Cybersecurity Projects:</h2>
 
 - <b>Personal Portfolio</b>
-  - [Nates Portfolio](https://github.com/barneybro/SIEM_In_Azure)
+  - [Nates Portfolio](https://github.com/barneybro/Barnhart_Portfolio)
 
 - <b>Microsoft Azure SIEM Lab</b>
   - [SIEM lab](https://github.com/barneybro/SIEM_In_Azure)
