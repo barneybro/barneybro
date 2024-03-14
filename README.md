@@ -6,7 +6,10 @@
 </h5>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Portfolio & Cybersecurity Projects:</h2>
+
+- <b>Personal Portfolio</b>
+  - [Nates Portfolio](https://github.com/barneybro/SIEM_In_Azure)
 
 - <b>Microsoft Azure SIEM Lab</b>
   - [SIEM lab](https://github.com/barneybro/SIEM_In_Azure)
