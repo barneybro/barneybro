@@ -1,28 +1,35 @@
-<h1>Hi, I'm Nate!
+# Hi, I'm Nate!  
 
-<h2>Introduction</h2>
+## Introduction  
 
+- **Microsoft Azure SIEM Lab**  
+  - [SIEM Lab](https://github.com/barneybro/SIEM_In_Azure)  
 
+## 🛠️ Projects  
 
+- **TacoBoutIT**  
+  - [GitHub Repository](https://github.com/barneybro/TacoBoutITMain)  
 
+- **Online Liquor Store**  
+  - [GitHub Repository](https://github.com/barneybro/Online-Liquor-Store)  
 
+- **2Dudes and Co. Barbershop**  
+  - [GitHub Repository](https://github.com/barneybro/2Dudes-and-Co-Barbershop)  
 
-- <b>Microsoft Azure SIEM Lab</b>
-  - [SIEM lab](https://github.com/barneybro/SIEM_In_Azure)
+- **Hemlock Village**  
+  - [GitHub Repository](https://github.com/barneybro/HemlockVillage)  
 
+## 📃 Certificates  
 
+- **Google Cybersecurity Professional Certificate**  
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)  
 
-<h2>📃Certificates</h2>
+## 🤳 Connect with me:  
 
-- <b>Google Cybersecurity Professional Certificate</b>
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)
-  
+[<img align="left" alt="Nathan Barnhart | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/nathan-barnhart-9b6647294/  
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/nathan-barnhart-9b6647294/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
