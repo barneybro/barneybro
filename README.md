@@ -8,16 +8,16 @@
 ## 🛠️ Projects  
 
 - **TacoBoutIT**  
-  - [GitHub Repository](https://github.com/barneybro/TacoBoutITMain)  
+  - [View Code](https://github.com/barneybro/TacoBoutITMain)  
 
 - **Online Liquor Store**  
-  - [GitHub Repository](https://github.com/barneybro/Online-Liquor-Store)  
+  - [View Code](https://github.com/barneybro/Online-Liquor-Store)  
 
 - **2Dudes and Co. Barbershop**  
-  - [GitHub Repository](https://github.com/barneybro/2Dudes-and-Co-Barbershop)  
+  - [View Code](https://github.com/barneybro/2Dudes-and-Co-Barbershop)  
 
 - **Hemlock Village**  
-  - [GitHub Repository](https://github.com/barneybro/HemlockVillage)  
+  - [View Code](https://github.com/barneybro/HemlockVillage)  
 
 ## 📃 Certificates  
 
