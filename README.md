@@ -7,16 +7,16 @@
 
 ## 🛠️ Projects  
 
-- **TacoBoutIT**  
+- **TacoBoutIT (Restaurant)**  
   - [View Code](https://github.com/barneybro/TacoBoutITMain)  
 
-- **Online Liquor Store**  
+- **Online Liquor Store (Retail)**  
   - [View Code](https://github.com/barneybro/Online-Liquor-Store)  
 
 - **2Dudes and Co. Barbershop**  
   - [View Code](https://github.com/barneybro/2Dudes-and-Co-Barbershop)  
 
-- **Hemlock Village**  
+- **Hemlock Village (Retirement Home)**  
   - [View Code](https://github.com/barneybro/HemlockVillage)  
 
 ## 📃 Certificates  
