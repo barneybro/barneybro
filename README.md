@@ -1,7 +1,9 @@
 # Hi, I'm Nate!  
 
 ## Introduction  
-
+- **Personal Portfolio**
+  - [Nates Portfolio](https://github.com/barneybro/Barnhart_Portfolio)
+    
 - **Microsoft Azure SIEM Lab**  
   - [SIEM Lab](https://github.com/barneybro/SIEM_In_Azure)  
 
