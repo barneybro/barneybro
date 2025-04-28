@@ -9,9 +9,6 @@
 
 ## 🛠️ Projects  
 
-- **TacoBoutIT (Restaurant)**  
-  - [View Code](https://github.com/barneybro/TacoBoutITMain)  
-
 - **Online Liquor Store (Retail)**  
   - [View Code](https://github.com/barneybro/Online-Liquor-Store)  
 
