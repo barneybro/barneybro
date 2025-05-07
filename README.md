@@ -3,11 +3,16 @@
 ## Introduction  
 - **Personal Portfolio**
   - [Nates Portfolio](https://github.com/barneybro/Barnhart_Portfolio)
-    
+
+## Data Analysis Projects
+ - **Foreign-Aid-Data-Analysis**
+    [Forensic Analysis]()
+
+## Cybersecurity Project
 - **Microsoft Azure SIEM Lab**  
   - [SIEM Lab](https://github.com/barneybro/SIEM_In_Azure)  
 
-## 🛠️ Projects  
+## 🛠️ Software Development Projects  
 
 - **Online Liquor Store (Retail)**  
   - [View Code](https://github.com/barneybro/Online-Liquor-Store)  
