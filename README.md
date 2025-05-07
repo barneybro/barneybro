@@ -28,6 +28,9 @@
 - **Google Cybersecurity Professional Certificate**  
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)  
 
+- **Excel Fundamentals for Data Analytics**
+  -[*Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
+
 ## 🤳 Connect with me:  
 
 [<img align="left" alt="Nathan Barnhart | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
