@@ -29,7 +29,7 @@
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)  
 
 - **Excel Fundamentals for Data Analytics**
-  -[*Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
+  - [Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
 
 ## 🤳 Connect with me:  
 
