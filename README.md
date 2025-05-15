@@ -13,7 +13,7 @@
 
 ##  Data Analysis Projects  
 - **Foreign Aid Data Analysis**  
-  [ View Project](https://github.com/barneybro/Foreign-Aid-Data-Analysis)
+  [View Project](https://github.com/barneybro/Foreign-Aid-Data-Analysis)
 
 ---
 
@@ -37,12 +37,13 @@
 
 ## 🎮 Game Development  
 - **Arcade Casino Tycoon**  
-  [🎰 Play/Code](https://github.com/barneybro/ArcadeCasinoTycoon)
+  [Play/Code](https://github.com/barneybro/ArcadeCasinoTycoon)
 
 ---
 
 ## 📜 Certifications  
-- [🎓 Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)  
+- [🎓 Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)
+  
 - [📈 Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
 
 ---
