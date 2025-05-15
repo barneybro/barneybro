@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nate 👋</h1>
 
 <p align="center">
-  🎓 Software Engineer • 📊 Aspiring Data Analyst • 🛡️ Cybersecurity Explorer  
+   Software Engineer • Aspiring Data Analyst •  Cybersecurity Explorer  
 </p>
 
 ---
@@ -49,6 +49,6 @@
 
 ## 🤝 Connect with Me  
 
-<a href="https://www.linkedin.com/in/nathan-barnhart-9b6647294/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nathan-barnhart-9b6647294/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nathan_Barnhart-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
