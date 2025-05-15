@@ -21,7 +21,12 @@
   - [View Code](https://github.com/barneybro/2Dudes-and-Co-Barbershop)  
 
 - **Hemlock Village (Retirement Home)**  
-  - [View Code](https://github.com/barneybro/HemlockVillage)  
+  - [View Code](https://github.com/barneybro/HemlockVillage)
+
+ 
+## 🛠️ Game Development Project  
+- **Arcade Casino Tycoon**  
+  - [View Code](https://github.com/barneybro/ArcadeCasinoTycoon) 
 
 ## 📃 Certificates  
 
@@ -38,17 +43,4 @@
 [linkedin]: https://www.linkedin.com/in/nathan-barnhart-9b6647294/  
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
