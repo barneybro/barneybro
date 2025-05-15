@@ -35,20 +35,20 @@
 
 ---
 
-## 🎮 Game Development  
+## Game Development  
 - **Arcade Casino Tycoon**  
   [Play/Code](https://github.com/barneybro/ArcadeCasinoTycoon)
 
 ---
 
-## 📜 Certifications  
-- [🎓 Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)
+## Certifications  
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UYNX9LW4JNEK)
   
-- [📈 Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
+- [Excel Fundamentals for Data Analytics](https://www.coursera.org/account/accomplishments/verify/1F5TEMT089KY)
 
 ---
 
-## 🤝 Connect with Me  
+## Connect with Me  
 
 <a href="https://www.linkedin.com/in/nathan-barnhart-9b6647294/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Nathan_Barnhart-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
