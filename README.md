@@ -33,6 +33,9 @@
 - **Hemlock Village (Retirement Home Portal)**  
   [View Code](https://github.com/barneybro/HemlockVillage)
 
+- **Campus Connect**
+  [View Code](https://github.com/barneybro/Campus_Connect)
+
 ---
 
 ## Game Development  
